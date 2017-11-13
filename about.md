@@ -4,32 +4,53 @@ title: About
 permalink: /about/
 ---
 
-#### Interests: 
-cryoptocurriencies. Network security. Deep learning. Gaming. AI. Cartoons. Techno and house music. Virtual reality
+## Interests: 
+- Cryoptocurriencies
+- Network security
+- Deep learning 
+- Gaming
+- AI
+- Cartoons
+- Techno and house music
+- Virtual reality
 
 ## Skills:
-### AW:
+### AWS:
 #### EC2
-* Hosting applications for clients and internal use using EC2 instances.
-Including automation of setup, custom built automated monitoring, configuration and failure recovery.
+Hosting applications for clients and internal use using EC2 instances.
+
+Including: 
+- automation of setup
+- custom built automated monitoring
+- configuration and failure recovery.
 
 #### Cloudwatch
-* Experience setting up and maintaining resource and service availability, error logging infrastructure.
+Experience setting up and maintaining resource and service availability, error logging infrastructure.
 
 #### Opsworks
-* Custom built Chef libraries for management and configurations of applications including Atlassian (Jira, Confluence, Bitbucket etc) Java applications, PHP and Python web services.
+Custom built Chef libraries for management and configurations of applications including:
+- Atlassian (Jira, Confluence, Bitbucket etc) Applications
+- Java applications
+- PHP web services
+- Python web services.
 
 #### Route53
 * Monitoring and configuration of DNS endpoints for applications and services.
 
 #### RDS
-* Managing relational databases.
+Managing relational databases.
+
+Used tools such as: 
+- MySQL (command line and server versions)
+- Sequel Pro
+- MySQL Workbench.
 
 #### Lambda
-* Building and maintaining serverless functions. 
+Building and maintaining serverless functions. 
+- Monitoring systems
+- Automated instance health checks/recovery
 
 
--
 
 ### Development: 
 #### Django (Python)
@@ -58,6 +79,8 @@ Worked on scripts managing configuration of Linux servers and instances.
 * -
 
 #### Bamboo and Bitbucket
-* Leveraged in build and continuous processes, including serving to web services and Chef/Opsworks configurations.
+Leveraged in build and continuous processes including:
+- serving to web services
+- Chef/Opsworks configurations.
 
 
